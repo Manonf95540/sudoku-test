@@ -1,0 +1,11 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "petit jeu du sudoku",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "FLORES manon et Ines PIEDDERRIERE",
+  "license": "PSB M2",
+}
